@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bird : MonoBehaviour
 {
     // Start is called before the first frame update
-    public Ridgidbody2D myBird;
+    public Ridgidbody2D myRidgidbody;
     void Start()
     {
         
