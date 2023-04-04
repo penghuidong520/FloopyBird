@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
+    public Rigidbody2D myRidgidbody;
     // Start is called before the first frame update
-    public Ridgidbody2D myRidgidbody;
     void Start()
     {
         
