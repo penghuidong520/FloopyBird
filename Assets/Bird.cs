@@ -6,6 +6,7 @@ public class Bird : MonoBehaviour
 {
     public Rigidbody2D myBird;
     public float flapStrenth;
+    public float yVelocity;
     // Start is called before the first frame update
     void Start()
     {
