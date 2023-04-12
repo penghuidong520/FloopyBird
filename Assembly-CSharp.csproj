@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Bird.cs" />
+    <Compile Include="Assets/TopPipe.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
